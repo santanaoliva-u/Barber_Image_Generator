@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Zuume Rough';
+    src: url('ZuumeRough-BoldItalic.eot');
+    src: local('Zuume Rough Bold Italic'), local('ZuumeRough-BoldItalic'),
+        url('ZuumeRough-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ZuumeRough-BoldItalic.woff2') format('woff2'),
+        url('ZuumeRough-BoldItalic.woff') format('woff'),
+        url('ZuumeRough-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zuume Rough';
+    src: url('ZuumeRough-Italic.eot');
+    src: local('Zuume Rough Italic'), local('ZuumeRough-Italic'),
+        url('ZuumeRough-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ZuumeRough-Italic.woff2') format('woff2'),
+        url('ZuumeRough-Italic.woff') format('woff'),
+        url('ZuumeRough-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zuume Rough';
+    src: url('ZuumeRough-Bold.eot');
+    src: local('Zuume Rough Bold'), local('ZuumeRough-Bold'),
+        url('ZuumeRough-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ZuumeRough-Bold.woff2') format('woff2'),
+        url('ZuumeRough-Bold.woff') format('woff'),
+        url('ZuumeRough-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zuume Rough';
+    src: url('ZuumeRough-Regular.eot');
+    src: local('Zuume Rough Regular'), local('ZuumeRough-Regular'),
+        url('ZuumeRough-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ZuumeRough-Regular.woff2') format('woff2'),
+        url('ZuumeRough-Regular.woff') format('woff'),
+        url('ZuumeRough-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
