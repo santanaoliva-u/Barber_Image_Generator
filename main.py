@@ -38,10 +38,17 @@ SERVICIOS = [
 
 INFO_EXTRA = (
     " Ubicación: 77724, Guadalupana, Playa del Carmen, México\n"
+    " Sitio Web: https://jesus-uriel-santana-oliva.gitbook.io/barbero-profesional" 
     " Correo: santanabarberoprofesional@gmail.com\n"
     " 984 187 0157\n"
     "@santanaoliva_u"
     "               "
+)
+
+INFO_EXTRA_IMG = (
+    " Ubicación: 77724, Guadalupana, Playa del Carmen, México\n"
+    " 984 187 0157\n"
+    "@santanaoliva_u"
 )
 
 HASHTAGS = (
@@ -156,7 +163,7 @@ def generar_imagen():
     draw.text(((1080 - text_width) / 2, 50), titulo_limpio, font=font_titulo, fill="white")
 
     # Agregar información adicional
-    draw.text((50, 950), INFO_EXTRA, font=font_info, fill="white")
+    draw.text((50, 950), INFO_EXTRA_IMG, font=font_info, fill="white")
 
     # Guardar imagen
     output_path = os.path.join(OUTPUT_DIR, f"output_{random.randint(1000, 9999)}.jpg")
