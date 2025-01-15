@@ -12,8 +12,8 @@ Este proyecto genera imágenes dinámicas combinando fondos, títulos e imágene
 
 ```bash
 # Clonar el repositorio
-git clone <URL del repositorio>
-cd procesador_imagenes
+git clone git@github.com:santanaoliva-u/Barber_Image_Generator.git
+cd Barber_Image_Generator
 
 # Crear y activar un entorno virtual
 python3 -m venv env
