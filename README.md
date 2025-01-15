@@ -1,5 +1,5 @@
 # Generador de Imágenes Automatizado
-!![Demostracion 1](/recursos/1.png) 
+![Demostracion 1](/recursos/1.png) 
 Este proyecto permite generar imágenes dinámicas combinando fondos, imágenes centrales, texto y filtros avanzados. Está dividido en dos módulos principales:
 
 - **main.py**: Diseñado para generar una sola imagen interactiva. Es ideal para pruebas y ajustes.
